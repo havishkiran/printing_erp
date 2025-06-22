@@ -1,1 +1,0 @@
-# Desktop icons setup
