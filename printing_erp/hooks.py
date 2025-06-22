@@ -1,0 +1,6 @@
+app_name = 'printing_erp'
+app_title = 'Printing ERP'
+app_publisher = 'Your Name'
+app_email = 'you@example.com'
+app_license = 'MIT'
+fixtures = ['Custom Field']
